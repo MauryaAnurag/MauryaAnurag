@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MauryaAnurag
 - 👀 I’m interested in Web Designing and Programming and Android Application Development
-- 🌱 I’m currently learning  in Government Polytechnic Mumbai  pursuing Diploma in Computer Engg.
-
+- 🌱I am currently pursuing my B.E. in Artificial Intelligence and Machine Learning from Mumbai University
 - 📫 My Mail Address:- anuragma807@gmail.com 
 
 <!---
